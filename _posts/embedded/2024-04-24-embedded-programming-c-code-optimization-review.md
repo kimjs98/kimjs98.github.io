@@ -1,11 +1,11 @@
 ---
-title: "[embedded] "임베디드 프로그래밍 C코드 최적화" chapter 1 리뷰"
+title: "[embedded] 임베디드 프로그래밍 C코드 최적화 chapter 1 리뷰"
 excerpt: "임베디드 프로그래밍 C코드 최적화 리뷰"
 
 categories: 
   - embedded
 tags:
-  - [embedded, c]
+  - [embedded, C]
 
 toc: true
 toc_sticky: true
